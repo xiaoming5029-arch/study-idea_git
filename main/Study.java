@@ -2,6 +2,6 @@ public class Study {
     public static void main(String[] args) {
         System.out.println("hello world");
         System.out.println("hello world");
-        System.out.println("要发生冲突");
+        System.out.println("冲突");
     }
 }
